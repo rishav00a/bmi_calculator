@@ -1,1 +1,1 @@
-web: python bmi_calculator/manage.py runserver 0.0.0.0:$PORT
+web: python manage.py runserver 0.0.0.0:$PORT
