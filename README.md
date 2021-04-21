@@ -1,1 +1,3 @@
-# django_quickstart
+# BMI Calculator
+
+[Demo](https://rishav-bmi-clac.herokuapp.com/)
