@@ -1,1 +1,1 @@
-# bmi_calculator
+# django_quickstart
